@@ -1,11 +1,11 @@
 
 <h1 align="center">👋 Oh Hello da, I’m Lord Ennard 🇵🇪</h1>
 <h3 align="center">💻 Systems Enginnering Student | 🔥 Work in Progress | ✝︎ AMGTG</h3>
-<h3>"The worst enemy you can meet will always be yourself"</h3>
-<h3 align="center">Interests:</h3>
-<ul align="center">
+<h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
+<h3>Interests:</h3>
+<ul>
   <li>📊 Data Analytics</li>
-  <li>💻 >Web Development</li>
+  <li>💻 Web Development</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
