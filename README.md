@@ -9,7 +9,7 @@
   <li>📊 Data Analytics</li>
   <li>💻 Web Development</li>
 </ul>
-<img align="right" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdreamingofy2k.tumblr.com%2Fpost%2F168167969126%2Fsp-113-ghost-in-the-shell-1995-coding&psig=AOvVaw24BABeeOlZdEszg7EgZpka&ust=1733551626473000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCL5qe9kooDFQAAAAAdAAAAABBo">
+<img align="right" width="400" scr="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdreamingofy2k.tumblr.com%2Fpost%2F168167969126%2Fsp-113-ghost-in-the-shell-1995-coding&psig=AOvVaw24BABeeOlZdEszg7EgZpka&ust=1733551626473000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCL5qe9kooDFQAAAAAdAAAAABBo](https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andreschurampi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andreschurampi14" height="30" width="40" /></a>
