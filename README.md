@@ -4,12 +4,12 @@
 <h3 align="center">💻 Systems Enginnering Student | 🔥 Work in Progress | ✝︎ AMGTG</h3>
 <h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
 <h3 align="center">-----------------------------------------------------------------------------------------------</h3>
+<img align="right" width="400" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif">
 <h3>Interests:</h3>
 <ul>
   <li>📊 Data Analytics</li>
   <li>💻 Web Development</li>
 </ul>
-<img align="right" width="400" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andreschurampi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andreschurampi14" height="30" width="40" /></a>
