@@ -3,7 +3,7 @@
 <h3 align="center">💻 Systems Enginnering Student | 🔥 Work in Progress | ✝︎ AMGTG</h3>
 <h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
 <h3 align="center">------------------------------------------------------------------------------------------------------------</h3>
-<img align="center" src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-28-576_512.gif">
+<img align="center" width="10"src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-28-576_512.gif">
 <img align="right" width="500" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif">
 <h3>Interests:</h3>
 <ul>
