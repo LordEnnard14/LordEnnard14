@@ -1,6 +1,5 @@
-
-<h1 align="center">👋 Oh Hello da, I’m Lord Ennard 🇵🇪</h1>
 <img align="right" width="100" src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-28-576_512.gif">
+<h1 align="center">👋 Oh Hello da, I’m Lord Ennard 🇵🇪</h1>
 <h3 align="center">------------------------------------------------------------------------------------------------------------</h3>
 <h3 align="center">💻 Systems Enginnering Student | 🔥 Work in Progress | ✝︎ AMGTG</h3>
 <h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
