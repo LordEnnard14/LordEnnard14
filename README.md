@@ -1,5 +1,5 @@
 <div>
-<img align="right" width="80" margin-left="1px" src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-28-576_512.gif">
+<img align="right" width="80" margin-left="1px" mr="10px" src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-28-576_512.gif">
 <h1 align="center">👋 Oh Hello da, I’m Lord Ennard 🇵🇪</h1>
 </div>
 <h3 align="center">------------------------------------------------------------------------------------------------------------</h3>
