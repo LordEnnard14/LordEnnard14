@@ -74,7 +74,7 @@ I love learning new tools, experimenting with automation, and creating things th
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width=70%" valign="top">
   
 ### 🗄️ Databases  
 <p>
