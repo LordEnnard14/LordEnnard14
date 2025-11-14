@@ -5,7 +5,7 @@
 <tr>
 
 <td width="40%" align="center">
-  <img src="https://i.makeagif.com/media/6-04-2016/7isR2c.gif" width="260" />
+  <img src=https://i.pinimg.com/originals/f7/13/46/f71346098c307873c433511c55240b43.gif width="260" />
 </td>
 
 <td width="60%" valign="middle">
@@ -13,8 +13,8 @@
 <h3 align="left">
   
 **Systems Engineering Student 🎓**  
-**🔐 Cybersecurity | 🤖 Machine Learning | ⚙️ DevOps/MLOps | 📊 Data Analytics**  
-**💻 Windows & 🐧 Linux Enthusiast**
+**💻 Windows & 🐧 Linux Enthusiast| 🤖 Machine Learning | 🔐 Cybersecurity | ⚙️ DevOps/MLOps | **  
+**📊 Data Analytics**
 
 </h3>
 
