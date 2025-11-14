@@ -19,7 +19,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 🎌 Aesthetic GIF  
 <p align="center">
-  <img src="https://media.tenor.com/aeEf7Pz5GNsAAAAC/arch-linux-linux.gif" width="300">
+  ![a0d581666d26dd9c66bf8ed395cba948](https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540)
 </p>
 
 ---
@@ -88,7 +88,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LordEnnard&theme=tokyonight" height="180px"/>
+  ![iusearch](https://github.com/user-attachments/assets/35620616-df29-4dfe-aa88-87cfc2be73d5)
 </p>
 
 ---
@@ -102,7 +102,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 😄 Fun Facts  
 <p align="left">
-  <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/" width="200" align="right">
+  ![aboutme](https://github.com/user-attachments/assets/910de86b-7351-4a95-91de-703e81894eb9)
 </p>
 
 - 🎸 De vez en cuando toco la guitarra  
