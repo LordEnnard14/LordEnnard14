@@ -100,9 +100,9 @@ I love learning new tools, experimenting with automation, and creating things th
 <tr>
 
 <td width="70%" align="center">
-
-</td>
 <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="380" />
+</td>
+
 <td width="60%" valign="top">
 
 ## 😄🎉 Fun Facts  
