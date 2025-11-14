@@ -1,3 +1,8 @@
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="100%" />
+</p>
+
 <h1 align="center">•´¯`•» Oh Hello Da!, I'm Lord Ennard «•´¯`•</h1>
 
 <h3 align="center"><i>"The worst enemy you can meet will always be yourself"</i></h3>
@@ -10,17 +15,20 @@
 <td width="55%" valign="top">
 
 ## 🧑‍💻✨ About Me  
-**Systems Engineering Student**  
+**Systems Engineering Student 🎓**  
 **🔐 Cybersecurity | 🤖 Machine Learning | ⚙️ DevOps/MLOps | 📊 Data Analytics**  
 **💻 Windows & 🐧 Linux Enthusiast**
 
-I'm passionate about solving real-world problems through technology, building reproducible ML pipelines, understanding how operating systems behave (both Windows and Linux), and diving deep into offensive & defensive cybersecurity.  
-I love learning new tools, experimenting with automation, and creating things that actually work.  
+🔥 I'm passionate about solving **real-world problems** through technology.  
+⚙️ I enjoy building **reproducible ML pipelines**, automating workflows and experimenting with new tools.  
+🧩 I love understanding how operating systems behave (Windows AND Linux).  
+💀 I also explore **offensive & defensive cybersecurity**, especially phishing, recon & automation.  
+🚀 Always learning, always leveling up.
 
 </td>
 
-<td width="60%" align="center">
-  <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="360"/>
+<td width="45%" align="center">
+  <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="380"/>
 </td>
 </tr>
 </table>
@@ -35,7 +43,7 @@ I love learning new tools, experimenting with automation, and creating things th
 <!-- COLUMN 1 -->
 <td width="33%" valign="top">
 
-### 🔥 Programming 💻  
+### 🔥 Programming 💻✨  
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
@@ -59,7 +67,7 @@ I love learning new tools, experimenting with automation, and creating things th
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" title="DVC"/>
 </p>
 
-### 🔧 DevOps / MLOps ⚙️🐳  
+### 🔧 DevOps / MLOps ⚙️🐳🚀  
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" title="GitHub"/>
@@ -71,19 +79,19 @@ I love learning new tools, experimenting with automation, and creating things th
 <!-- COLUMN 3 -->
 <td width="33%" valign="top">
 
-### 🔐 Cybersecurity 🛡️💀  
+### 🔐 Cybersecurity 🛡️💀🧨  
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" title="Kali Linux"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
 </p>
 
-### 🗄️ Databases 🧩  
+### 🗄️ Databases 🧩🗃️  
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
 </p>
 
-### 🎨 Design ✏️✨  
+### 🎨 Design ✏️✨🎨  
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" title="Figma"/>
 </p>
@@ -99,18 +107,21 @@ I love learning new tools, experimenting with automation, and creating things th
 <table>
 <tr>
 
-<td width="70%" align="center">
-<img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="380" />
+<td width="40%" align="center">
+  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="380" />
 </td>
 
 <td width="60%" valign="top">
 
 ## 😄🎉 Fun Facts  
 
-- 🎸 I occasionally play the guitar  
-- 🛌 I really enjoy sleeping  
-- ⚽ Football fan (especially match nights)  
-- 🎧 Vibecoding 
+- 🎸 I occasionally play the guitar (anime OP style 🎵)  
+- 🛌 Sleeping is my hidden talent 😴  
+- ⚽ Football fan (especially match nights 🔥)  
+- 🎧 Vibecoding with anime & game OSTs  
+- 🐧 Linux tinkerer at 2AM  
+- ☕ Coffee = +10 productivity buff  
+- 🎮 Sometimes gaming helps me debug mentally  
 
 </td>
 
@@ -118,3 +129,18 @@ I love learning new tools, experimenting with automation, and creating things th
 </table>
 
 ---
+
+## 📫 Connect With Me 🌐✨
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/andreschurampi14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" title="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/lord.ennard/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45" title="Instagram">
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for stopping by! Keep exploring, keep learning ✨</p>
