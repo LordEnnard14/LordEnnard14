@@ -2,10 +2,6 @@
 
 <h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540" width="300" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me  
@@ -19,9 +15,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 🎌 Aesthetic GIF  
 <p align="center">
-  <a href="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" target="_blank">
-    <img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="300" />
-  </a>
+  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="300" />
 </p>
 
 ---
@@ -88,12 +82,6 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LordEnnard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordEnnard&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="300" />
-</p>
-
-
 ---
 
 ## 😄 Fun Facts  
