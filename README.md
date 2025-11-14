@@ -5,7 +5,7 @@
 <tr>
 
 <td width="40%" align="center">
-  <img src=https://i.pinimg.com/originals/f7/13/46/f71346098c307873c433511c55240b43.gif width="260" />
+  <img src="https://i.pinimg.com/originals/f7/13/46/f71346098c307873c433511c55240b43.gif" width="260" />
 </td>
 
 <td width="60%" valign="middle">
@@ -13,10 +13,19 @@
 <h3 align="left">
   
 **Systems Engineering Student 🎓**  
-💻 Windows & 🐧 Linux Enthusiast| 🤖 Machine Learning | 🔐 Cybersecurity | ⚙️ DevOps/MLOps |  
+💻 Windows & 🐧 Linux Enthusiast | 🤖 Machine Learning | 🔐 Cybersecurity | ⚙️ DevOps/MLOps |  
 **📊 Data Analytics**
 
 </h3>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-9146FF?style=for-the-badge&logo=OpenAI&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=Claris&logoColor=white">
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
 </td>
 
@@ -32,11 +41,12 @@
 
 ## 🧑‍💻✨ About Me  
 
-🔥 I'm passionate about solving **real-world problems** through technology.  
-⚙️ I enjoy building **reproducible ML pipelines**, automating workflows and experimenting with new tools.  
-🧩 I love understanding how operating systems behave (Windows AND Linux).  
-💀 I also explore **offensive & defensive cybersecurity**, especially phishing, recon & automation.  
-🚀 Always learning, always leveling up.
+🔥 I'm deeply passionate about **emerging technologies**, always exploring the next wave of innovation.  
+💻 As an OS enthusiast, I love understanding how **Windows**, **Linux**, and different system internals work.  
+🤖 My curiosity for **Artificial Intelligence & Machine Learning** grows every day—I enjoy building models, pipelines, and learning how machines learn.  
+🔐 Cybersecurity is another field I truly love, from phishing simulation to defense, recon, and system hardening.  
+⚙️ DevOps also fascinates me—automation, pipelines, deployment, containers… I enjoy it all.  
+🚀 I am always learning, always improving, always experimenting.
 
 </td>
 
@@ -46,7 +56,6 @@
 </tr>
 </table>
 
-<!-- MOVED QUOTE HERE -->
 <h3 align="center"><i>"The worst enemy you can meet will always be yourself"</i></h3>
 
 ---
@@ -131,13 +140,13 @@
 
 ## 😄🎉 Fun Facts  
 
-- 🎸 I occasionally play the guitar (anime OP style 🎵)  
-- 🛌 Sleeping is my hidden talent 😴  
-- ⚽ Football fan (especially match nights 🔥)  
-- 🎧 Vibecoding with anime & game OSTs  
-- 🐧 Linux tinkerer at 2AM  
-- ☕ Coffee = +10 productivity buff  
-- 🎮 Gaming sometimes helps me debug mentally  
+- 🎸 I occasionally play the guitar  
+- 💻 My all-time favorite OS is **Windows XP**  
+- 🎮 My favorite game ever is **The Legend of Zelda: Majora's Mask**  
+- ⚽ I love football  
+- 🎧 Vibecoding is my natural habitat  
+- 🐧 I spend way too much time customizing Linux  
+- ☕ Coffee is my debugging fuel  
 
 </td>
 
@@ -158,5 +167,3 @@
 </p>
 
 ---
-
-<p align="center">✨ Thanks for stopping by! Keep exploring, keep learning ✨</p>
