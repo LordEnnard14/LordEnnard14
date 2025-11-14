@@ -83,4 +83,45 @@ I enjoy learning new tools, experimenting with automation, and creating things t
 
 </td>
 </tr>
-<
+</table>
+
+---
+
+<!-- FUN FACTS SIDE-BY-SIDE -->
+<table>
+<tr>
+<td width="40%" align="center">
+
+<img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300"/>
+
+</td>
+
+<td width="60%" valign="top">
+
+## 😄 Fun Facts  
+
+- 🎸 I occasionally play the guitar  
+- 🛌 I enjoy sleeping  
+- ⚽ I love football  
+- 🎧 I listen to anime OSTs while coding  
+- 🐧 Daily Linux & terminal enjoyer  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andreschurampi14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40">
+  </a>
+  <a href="https://www.instagram.com/lord.ennard/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40">
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for stopping by ✨</p>
