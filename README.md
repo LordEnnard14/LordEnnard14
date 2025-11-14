@@ -29,67 +29,68 @@ I love learning new tools, experimenting with automation, and creating things th
 
 ## ⚙️🧰 Tech Stack  
 
-<!-- TWO-COLUMN TECH STACK -->
 <table>
 <tr>
 
-<!-- LEFT COLUMN -->
-<td width="50%" valign="top">
+<!-- COLUMN 1 -->
+<td width="33%" valign="top">
 
-### 🔥 Programming  
+### 🔥 Programming 💻  
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="45"/>
-</p>
-
-### 🧠 Machine Learning / Data  
-<p>
-<img src="https://avatars.githubusercontent.com/u/365630?v=4" width="45"/> <!-- scikit -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="45" title="Haskell"/>
 </p>
 
 </td>
 
-<!-- RIGHT COLUMN -->
-<td width="50%" valign="top">
+<!-- COLUMN 2 -->
+<td width="33%" valign="top">
 
-### 🔐 Cybersecurity  
+### 🧠 Machine Learning & Data 🤖📊  
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://avatars.githubusercontent.com/u/365630?v=4" width="45" title="scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="45" title="MLflow"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" title="DVC"/>
 </p>
 
-### 🔧 DevOps / MLOps  
+### 🔧 DevOps / MLOps ⚙️🐳  
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://avatars.githubusercontent.com/u/1120929?s=200&v=4" width="45"/> <!-- Docker -->
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/> <!-- DVC -->
-<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="45"/> <!-- MLflow -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" title="GitHub"/>
+<img src="https://avatars.githubusercontent.com/u/1120929?s=200&v=4" width="45" title="Docker"/>
 </p>
 
 </td>
-<td width=70%" valign="top">
-  
-### 🗄️ Databases  
+
+<!-- COLUMN 3 -->
+<td width="33%" valign="top">
+
+### 🔐 Cybersecurity 🛡️💀  
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" title="Kali Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
 </p>
 
-### 🎨 Design  
+### 🗄️ Databases 🧩  
 <p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
 </p>
+
+### 🎨 Design ✏️✨  
+<p>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" title="Figma"/>
+</p>
+
 </td>
 
 </tr>
-
 </table>
 
 ---
