@@ -3,7 +3,7 @@
 <h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7e/7a/32/7e7a322b715ce6d7b2c3d4cebdab0896.gif" width="600">
+  <img src="https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540" width="300" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 🎌 Aesthetic GIF  
 <p align="center">
-  ![a0d581666d26dd9c66bf8ed395cba948](https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540)
+  <img src="[https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540](https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif)" width="300" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 </p>
 
 <p align="center">
-  ![iusearch](https://github.com/user-attachments/assets/35620616-df29-4dfe-aa88-87cfc2be73d5)
+  <img src="[https://github.com/user-attachments/assets/35620616-df29-4dfe-aa88-87cfc2be73d5](https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif)" width="300" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 😄 Fun Facts  
 <p align="left">
-  [![aboutme](https://github.com/user-attachments/assets/910de86b-7351-4a95-91de-703e81894eb9)](https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+  <img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/a9be8f0d-a315-456b-b96c-772f0d00581e" />
 </p>
 
 - 🎸 De vez en cuando toco la guitarra  
