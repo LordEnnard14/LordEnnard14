@@ -13,7 +13,7 @@
 <h3 align="left">
   
 **Systems Engineering Student 🎓**  
-**💻 Windows & 🐧 Linux Enthusiast| 🤖 Machine Learning | 🔐 Cybersecurity | ⚙️ DevOps/MLOps | **  
+💻 Windows & 🐧 Linux Enthusiast| 🤖 Machine Learning | 🔐 Cybersecurity | ⚙️ DevOps/MLOps |  
 **📊 Data Analytics**
 
 </h3>
