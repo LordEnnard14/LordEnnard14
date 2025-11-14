@@ -19,7 +19,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 🎌 Aesthetic GIF  
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540](https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif)" width="300" />
+  [<img src="[https://github.com/user-attachments/assets/e90dcaaf-35f8-44a6-ad7a-b0f9f0603540](https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif)" width="300" />](https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif)
 </p>
 
 ---
@@ -102,7 +102,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 😄 Fun Facts  
 <p align="left">
-  <img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/a9be8f0d-a315-456b-b96c-772f0d00581e" />
+ [ <img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/a9be8f0d-a315-456b-b96c-772f0d00581e" />](https://c.tenor.com/0I6_TZzqHkoAAAAd/tenor.gif)
 </p>
 
 - 🎸 De vez en cuando toco la guitarra  
