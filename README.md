@@ -1,11 +1,27 @@
-<!-- 🔥 Banner -->
-<p align="center">
-  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="100%" />
-</p>
-
 <h1 align="center">•´¯`•» Oh Hello Da!, I'm Lord Ennard «•´¯`•</h1>
 
-<h3 align="center"><i>"The worst enemy you can meet will always be yourself"</i></h3>
+<!-- TITLE + ROLE SECTION WITH GIF -->
+<table align="center">
+<tr>
+
+<td width="40%" align="center">
+  <img src="https://i.makeagif.com/media/6-04-2016/7isR2c.gif" width="260" />
+</td>
+
+<td width="60%" valign="middle">
+
+<h3 align="left">
+  
+**Systems Engineering Student 🎓**  
+**🔐 Cybersecurity | 🤖 Machine Learning | ⚙️ DevOps/MLOps | 📊 Data Analytics**  
+**💻 Windows & 🐧 Linux Enthusiast**
+
+</h3>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -15,9 +31,6 @@
 <td width="55%" valign="top">
 
 ## 🧑‍💻✨ About Me  
-**Systems Engineering Student 🎓**  
-**🔐 Cybersecurity | 🤖 Machine Learning | ⚙️ DevOps/MLOps | 📊 Data Analytics**  
-**💻 Windows & 🐧 Linux Enthusiast**
 
 🔥 I'm passionate about solving **real-world problems** through technology.  
 ⚙️ I enjoy building **reproducible ML pipelines**, automating workflows and experimenting with new tools.  
@@ -32,6 +45,9 @@
 </td>
 </tr>
 </table>
+
+<!-- MOVED QUOTE HERE -->
+<h3 align="center"><i>"The worst enemy you can meet will always be yourself"</i></h3>
 
 ---
 
@@ -121,7 +137,7 @@
 - 🎧 Vibecoding with anime & game OSTs  
 - 🐧 Linux tinkerer at 2AM  
 - ☕ Coffee = +10 productivity buff  
-- 🎮 Sometimes gaming helps me debug mentally  
+- 🎮 Gaming sometimes helps me debug mentally  
 
 </td>
 
