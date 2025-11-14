@@ -3,6 +3,9 @@
 <h3 align="center">"The worst enemy you can meet will always be yourself"</h3>
 
 ---
+<p align="center">
+  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="300" />
+</p>
 
 ## 🧑‍💻 About Me  
 **Systems Engineering Student**  
@@ -10,13 +13,6 @@
 **Windows & Linux Enthusiast**  
 
 Soy un estudiante apasionado por resolver problemas reales mediante tecnología, crear pipelines de ML reproducibles, entender cómo funcionan los sistemas (tanto Windows como Linux) y aprender sobre ciberseguridad ofensiva/defensiva. Me gusta explorar nuevas herramientas y construir cosas que realmente funcionen.
-
----
-
-## 🎌 Aesthetic GIF  
-<p align="center">
-  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="300" />
-</p>
 
 ---
 
