@@ -4,8 +4,8 @@
 <table align="center">
 <tr>
 
-<td width="60%" align="center">
-  <img src=https://i.giphy.com/R0MUONmYJfkXpEHOk9.webp width="260" />
+<td width="40%" align="center">
+  <img src=https://i.giphy.com/R0MUONmYJfkXpEHOk9.webp width="560" />
 </td>
 
 <td width="60%" valign="middle">
