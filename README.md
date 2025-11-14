@@ -19,7 +19,7 @@ I love learning new tools, experimenting with automation, and creating things th
 
 </td>
 
-<td width="45%" align="center">
+<td width="60%" align="center">
 <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="380" />
 </td>
 </tr>
@@ -75,6 +75,7 @@ I love learning new tools, experimenting with automation, and creating things th
 
 </td>
 <td width="50%" valign="top">
+  
 ### 🗄️ Databases  
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
@@ -86,7 +87,9 @@ I love learning new tools, experimenting with automation, and creating things th
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
 </p>
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -95,7 +98,7 @@ I love learning new tools, experimenting with automation, and creating things th
 <table>
 <tr>
 
-<td width="60%" align="center">
+<td width="70%" align="center">
 <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="360"/>
 </td>
 
