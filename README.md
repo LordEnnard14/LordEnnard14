@@ -102,7 +102,7 @@ Soy un estudiante apasionado por resolver problemas reales mediante tecnología,
 
 ## 😄 Fun Facts  
 <p align="left">
-  ![aboutme](https://github.com/user-attachments/assets/910de86b-7351-4a95-91de-703e81894eb9)
+  [![aboutme](https://github.com/user-attachments/assets/910de86b-7351-4a95-91de-703e81894eb9)](https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 </p>
 
 - 🎸 De vez en cuando toco la guitarra  
