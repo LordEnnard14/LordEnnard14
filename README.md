@@ -145,8 +145,6 @@
 - 🎮 My favorite game ever is **The Legend of Zelda: Majora's Mask**  
 - ⚽ I love football  
 - 🎧 Vibecoding is my natural habitat  
-- 🐧 I spend way too much time customizing Linux  
-- ☕ Coffee is my debugging fuel  
 
 </td>
 
