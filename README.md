@@ -1,154 +1,112 @@
-<h1 align="center">•´¯`•» Oh Hello Da!, I'm Lord Ennard «•´¯`•</h1>
+<!-- ============================== HEADER ============================== -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:3B1D6E,100:9146FF&text=Lord%20Ennard&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Andr%C3%A9s%20Churampi%20%7C%20Systems%20Engineering%20%C2%B7%20Cybersecurity%20%C2%B7%20ML&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/> <a href="https://github.com/LordEnnard14"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9146FF&center=true&vCenter=true&width=700&lines=Oh+Hello+Da!+%F0%9F%91%8B;Blue+team+mindset+%7C+Threat+Hunting+%26+SIEM;ML+%2B+Explainable+AI+researcher;I+break+things+in+the+lab+so+they+don't+break+in+prod" alt="Typing SVG"/> </a> <br/>
 
-<!-- TITLE + ROLE SECTION WITH GIF -->
-<table align="center">
-<tr>
+</div>
+<!-- ============================== ABOUT ============================== -->
+🧑‍💻 About Me
 
-<td width="40%" align="center">
-  <img src=https://i.giphy.com/R0MUONmYJfkXpEHOk9.webp width="560" />
-</td>
+Systems Engineering graduate from Universidad de Lima, ranked 15th out of 71 in my class. My training focused on IT infrastructure, networking and data analysis, backed by hands-on experience in technical support, network configuration and user support.
 
-<td width="60%" valign="middle">
+I'm passionate about cybersecurity and I like learning by building: labs, detections, simulations and automations that make the theory visible. I also work on IT process automation, data analysis and developing technology solutions that help teams run better.
 
-<h3 align="left">
-  
-**Systems Engineering Student 🎓**  
-💻 Windows & 🐧 Linux Enthusiast | 🤖 Machine Learning | 🔐 Cybersecurity | ⚙️ DevOps/MLOps |  
-**📊 Data Analytics**
+🔐 Cybersecurity: CCNA-level networking, security fundamentals, threat hunting, SIEM (Wazuh + Elastic), Sigma rules, MITRE ATT&CK
+🏢 IT infrastructure: Active Directory, Windows Server (2012, 2016 Datacenter), Linux (Ubuntu Server), Microsoft 365 and Google Workspace
+🤖 Automation & AI: Google Apps Script, Gemini integration, CI/CD with GitHub Actions, ML pipelines
+📊 Data: advanced Excel, SQL, Python and Power BI for analysis and visualization
+🌎 Languages: Spanish (native), English (advanced)
 
-</h3>
+I'm detail-oriented, proactive and good at explaining technical results clearly. I want to contribute to organizations where technology and data drive continuous improvement.
 
-<!-- Badges -->
-<p>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-9146FF?style=for-the-badge&logo=OpenAI&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=Claris&logoColor=white">
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
+<!-- TODO: add one line about what you're learning right now (e.g. "Currently learning: ...") --> <div align="center"> <i>"The worst enemy you can meet will always be yourself"</i> </div>
+<!-- ============================== EXPERIENCE ============================== -->
+💼 Experience
+<!-- TODO: confirm exact job title and dates (e.g. "Jan 2026 – Jun 2026") -->
+🏛️ IT Infrastructure & Support Intern | Universidad de Lima
+👥 Centralized management of users, objects and security groups in Active Directory
+🔑 Provisioning and inventory of corporate software licenses through Microsoft 365, Google Workspace, Adobe, Autodesk and Trimble admin consoles
+📈 Proactive monitoring of server availability and performance with Grafana
+🎫 Handling, resolving and tracking support tickets to keep end users operational
+💾 Configuring and monitoring email and corporate data backups across Google Drive and M365
+🤖 Built automations with Google Apps Script and Gemini to automatically process and classify emails and PDF attachments
+🔔 Automated workflows to notify and follow up on requests assigned to project leads
+🤝 Worked directly with external help desk providers and networking and telecom specialists to resolve complex incidents and roll out solutions
 
-</td>
 
-</tr>
-</table>
+🎓 Education
 
----
+B.Sc. in Systems Engineering | Universidad de Lima
+Ranked 15th out of 71 students in my class. Focus: IT infrastructure, networking and data analysis.
 
-<!-- ABOUT ME SIDE-BY-SIDE -->
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- ============================== FEATURED PROJECTS ============================== -->
+🚀 Featured Projects
+<!-- TODO: replace each REPO_NAME with the real repository name --> <table> <tr> <td width="50%" valign="top">
+🕵️ LOLBins Threat Hunting Lab
 
-## 🧑‍💻✨ About Me  
+Detection of living-off-the-land techniques (T1059.001, T1218) on a Windows 10 VM + Ubuntu Server using Sysmon, Wazuh and Elasticsearch, validated with Atomic Red Team and Sigma rules.
 
-🔥 I'm deeply passionate about **emerging technologies**, always exploring the next wave of innovation.  
-💻 As an OS enthusiast, I love understanding how **Windows**, **Linux**, and different system internals work.  
-🤖 My curiosity for **Artificial Intelligence & Machine Learning** grows every day—I enjoy building models, pipelines, and learning how machines learn.  
-🔐 Cybersecurity is another field I truly love, from phishing simulation to defense, recon, and system hardening.  
-⚙️ DevOps also fascinates me—automation, pipelines, deployment, containers… I enjoy it all.  
-🚀 I am always learning, always improving, always experimenting.
+</td> <td width="50%" valign="top">
+🧠 ML Anomaly Detection on Sysmon/Wazuh logs
 
-</td>
+Phase 2 of the LOLBins work: Isolation Forest to flag anomalous process behavior on top of SIEM telemetry.
 
-<td width="45%" align="center">
-  <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="580"/>
-</td>
-</tr>
-</table>
+</td> </tr> <tr> <td width="50%" valign="top">
+🍯 Cowrie SSH Honeypot
 
-<h3 align="center"><i>"The worst enemy you can meet will always be yourself"</i></h3>
+SSH honeypot tested locally and then exposed on Oracle Cloud Free Tier to analyze real attacker behavior.
 
----
+</td> <td width="50%" valign="top">
+🎓 Academic Performance Prediction (ICFES)
 
-## ⚙️🧰 Tech Stack  
+Research article using ML + XAI (SHAP, LIME) with Boruta feature selection on the public Colombian ICFES dataset.
 
-<table>
-<tr>
+<!-- TODO: update status (submitted / under review / published) and add the link if public --> </td> </tr> </table>
+<!-- ============================== TECH STACK ============================== -->
+🧰 Tech Stack
+<div align="center">
 
-<!-- COLUMN 1 -->
-<td width="33%" valign="top">
+Languages
 
-### 🔥 Programming 💻✨  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="45" title="Haskell"/>
-</p>
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,haskell,bash,powershell&theme=dark" alt="languages"/>
 
-</td>
+Security & Systems
 
-<!-- COLUMN 2 -->
-<td width="33%" valign="top">
+<img src="https://skillicons.dev/icons?i=kali,linux,elasticsearch&theme=dark" alt="security"/> <br/> ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Cowrie](https://img.shields.io/badge/Cowrie-333333?style=for-the-badge)
 
-### 🧠 Machine Learning & Data 🤖📊  
-<p>
-<img src="https://avatars.githubusercontent.com/u/365630?v=4" width="45" title="scikit-learn"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
-<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="45" title="MLflow"/>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" title="DVC"/>
-</p>
+IT Infrastructure & Automation
 
-### 🔧 DevOps / MLOps ⚙️🐳🚀  
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://avatars.githubusercontent.com/u/1120929?s=200&v=4" width="45" title="Docker"/>
-</p>
+ML & Data
 
-</td>
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,tensorflow&theme=dark" alt="ml"/> <br/> ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-<!-- COLUMN 3 -->
-<td width="33%" valign="top">
+Cloud, DevOps & Databases
 
-### 🔐 Cybersecurity 🛡️💀🧨  
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" title="Kali Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,postgres,sqlite&theme=dark" alt="devops"/>
 
-### 🗄️ Databases 🧩🗃️  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
-</p>
+Design
 
-### 🎨 Design ✏️✨🎨  
-<p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" title="Figma"/>
-</p>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="design"/> </div>
+<!-- ============================== CERTIFICATIONS ============================== -->
+🏅 Certifications & Training
+<!-- TODO: use the exact certificate names, issuers and years. Add credential links if you have them. -->
+☁️ AWS: add exact certification name
+🌐 Cisco CCNA: add module / exam name
+📜 ISO/IEC 27001:2022: add exact course or certification name
+🤖 Claude AI 101: Anthropic
+<!-- ============================== STATS ============================== -->
+📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=LordEnnard14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordEnnard14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs"/> </div>
+<!-- ============================== FUN FACTS ============================== --> <table> <tr> <td width="35%" align="center"> <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="320" alt="I use arch btw"/> </td> <td width="65%" valign="middle">
+🎲 Fun Facts
+🎸 I occasionally play the guitar
+💾 My all-time favorite OS is Windows XP
+🎮 Favorite game ever: The Legend of Zelda: Majora's Mask
+⚽ I love football
+🎧 Vibecoding is my natural habitat
+</td> </tr> </table>
+<!-- ============================== CONTACT ============================== -->
+📫 Let's Connect
+<div align="center"> <!-- TODO: replace with your real LinkedIn URL and email -->
 
-</td>
+LinkedIn Email GitHub
 
-</tr>
-</table>
-
----
-
-<!-- FUN FACTS SIDE-BY-SIDE -->
-<table>
-<tr>
-
-<td width="40%" align="center">
-  <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="380" />
-</td>
-
-<td width="60%" valign="top">
-
-## 😄🎉 Fun Facts  
-
-- 🎸 I occasionally play the guitar  
-- 💻 My all-time favorite OS is **Windows XP**  
-- 🎮 My favorite game ever is **The Legend of Zelda: Majora's Mask**  
-- ⚽ I love football  
-- 🎧 Vibecoding is my natural habitat  
-
-</td>
-
-</tr>
-</table>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9146FF,50:3B1D6E,100:0D1117&section=footer" width="100%" alt="footer"/> </div>
