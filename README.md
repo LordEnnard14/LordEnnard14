@@ -16,7 +16,8 @@ I like making IT run smoothly: managing infrastructure, automating repetitive pr
 🔐 Security & Networking: CCNA, security fundamentals, threat hunting    
 📊 Data: Python, SQL, Power BI, advanced Excel    
 🌎 Languages: Spanish (native) · English (advanced)    
-</td> <td width="38%" align="center"> <!-- Anime tech GIF slot #1: replace the URL below with a direct .gif link if you want to swap it --> <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="320" alt="anime"/> </td> </tr> </table> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=50&width=620&color=0:0B1F24,50:0F766E,100:0B1F24&text=%22The%20worst%20enemy%20you%20can%20meet%20will%20always%20be%20yourself%22&fontColor=FFFFFF&fontSize=17&fontAlign=50&fontAlignY=55" alt="quote"/> </div>
+</td> <td width="38%" align="center"> <!-- Anime tech GIF slot #1: replace the URL below with a direct .gif link if you want to swap it --> <img width="500" height="375" alt="image" src="https://i.pinimg.com/originals/62/da/61/62da615e1c6e29ab501928aba4a20b5b.gif" />
+ </td> </tr> </table> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=50&width=620&color=0:0B1F24,50:0F766E,100:0B1F24&text=%22The%20worst%20enemy%20you%20can%20meet%20will%20always%20be%20yourself%22&fontColor=FFFFFF&fontSize=17&fontAlign=50&fontAlignY=55" alt="quote"/> </div>
 <!-- ============================== EXPERIENCE ============================== --> 
 
 <!-- TODO: confirm exact job title and dates (e.g. "Jan 2026 – Jun 2026") --> <table> <tr> <td width="62%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%92%BC%20Experience&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="Experience"/>
