@@ -6,36 +6,31 @@
 </div>
 <!-- ============================== ABOUT ============================== --> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="About Me"/> <table> <tr> <td width="62%" valign="top">
 
-🎓 Systems Engineering graduate from Universidad de Lima · Upper Tenth
+🎓 Systems Engineering graduate from Universidad de Lima · Upper Tenth     
 
-I like making IT run smoothly: managing infrastructure, automating repetitive processes and bringing AI into everyday workflows.
+I like making IT run smoothly: managing infrastructure, automating repetitive processes and bringing AI into everyday workflows.     
 
-🏢 IT Infrastructure: Active Directory, Windows Server, Ubuntu Server, M365 & Google Workspace
-⚙️ Process Automation: Apps Script, GitHub Actions CI/CD, automated notification flows
-🤖 Artificial Intelligence: Gemini integrations to process emails and documents automatically
-🔐 Security & Networking: CCNA, security fundamentals, threat hunting
-📊 Data: Python, SQL, Power BI, advanced Excel
-🌎 Languages: Spanish (native) · English (advanced)
+🏢 IT Infrastructure: Active Directory, Windows Server, Ubuntu Server, M365 & Google Workspace     
+⚙️ Process Automation: Apps Script, GitHub Actions CI/CD, automated notification flows     
+🤖 Artificial Intelligence: Gemini integrations to process emails and documents automatically    
+🔐 Security & Networking: CCNA, security fundamentals, threat hunting    
+📊 Data: Python, SQL, Power BI, advanced Excel    
+🌎 Languages: Spanish (native) · English (advanced)    
 </td> <td width="38%" align="center"> <!-- Anime tech GIF slot #1: replace the URL below with a direct .gif link if you want to swap it --> <img src="https://images.steamusercontent.com/ugc/540773470654306839/06689FF2862E5961AB4681EDC4D058373F6C71E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="320" alt="anime"/> </td> </tr> </table> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=50&width=620&color=0:0B1F24,50:0F766E,100:0B1F24&text=%22The%20worst%20enemy%20you%20can%20meet%20will%20always%20be%20yourself%22&fontColor=FFFFFF&fontSize=17&fontAlign=50&fontAlignY=55" alt="quote"/> </div>
 <!-- ============================== EXPERIENCE ============================== --> 
 
 <!-- TODO: confirm exact job title and dates (e.g. "Jan 2026 – Jun 2026") --> <table> <tr> <td width="62%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%92%BC%20Experience&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="Experience"/>
-🏛️ IT Infrastructure & Support Intern | Universidad de Lima
+🏛️ IT Infrastructure & Support Intern | Universidad de Lima    
+👥 Managed users, objects and security groups in Active Directory   
+🔑 Provisioned and inventoried licenses across M365, Google Workspace, Adobe, Autodesk and Trimble    
+📈 Monitored server availability with Grafana and configured email and data backups (Drive / M365)   
+🎫 Resolved and tracked support tickets, working with external help desk and network/telecom specialists on complex incidents    
+🤖 Built Apps Script + Gemini automations to classify emails and PDFs and notify project leads   
 
-👥 Managed users, objects and security groups in Active Directory
+</td> <td width="50%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%8E%93%20Education&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="Education"/>
 
-🔑 Provisioned and inventoried licenses across M365, Google Workspace, Adobe, Autodesk and Trimble
-
-📈 Monitored server availability with Grafana and configured email and data backups (Drive / M365)
-
-🎫 Resolved and tracked support tickets, working with external help desk and network/telecom specialists on complex incidents
-
-🤖 Built Apps Script + Gemini automations to classify emails and PDFs and notify project leads
-
-</td> <td width="38%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%8E%93%20Education&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="Education"/>
-
-B.Sc. in Systems Engineering | Universidad de Lima
-🏅 Upper Tenth. Focus: IT infrastructure, networking and data analysis.
+B.Sc. in Systems Engineering | Universidad de Lima   
+🏅 Upper Tenth. Focus: IT infrastructure, networking and data analysis.  
 
 </td> </tr> </table>
 
@@ -80,10 +75,9 @@ Research article applying explainable AI (SHAP, LIME) to academic performance da
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,figma&theme=dark" alt="cloud"/> </div>
 <!-- ============================== CERTIFICATIONS ============================== --> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=380&color=0:0F766E,100:2DD4BF&text=%F0%9F%8F%85%20Certifications&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="Certifications"/> <!-- TODO: use the exact certificate names, issuers and years. Add credential links if you have them. -->
-☁️ AWS: add exact certification name
-🌐 Cisco CCNA: add module / exam name
-📜 ISO/IEC 27001:2022: add exact course or certification name
-🤖 Claude AI 101: Anthropic
+☁️ AWS: Generative AI Foundations   
+🌐 Cisco CCNA: Introduction To Networks    
+🤖 Claude AI 101: Anthropic     
 <!-- ============================== STATS ============================== --> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%93%8A%20GitHub%20Stats&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="GitHub Stats"/> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=LordEnnard14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=C9D1D9" alt="stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordEnnard14&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="top langs"/> </div>
 <!-- ============================== FUN FACTS ============================== --> <img src="https://capsule-render.vercel.app/api?type=rect&height=46&width=320&color=0:0F766E,100:2DD4BF&text=%F0%9F%8E%B2%20Fun%20Facts&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55" alt="Fun Facts"/> <table> <tr> <td width="35%" align="center"> <!-- Anime tech GIF slot #2: replace the URL below with a direct .gif link if you want to swap it --> <img src="https://c.tenor.com/39qSqC0t0lUAAAAC/tenor.gif" width="320" alt="I use arch btw"/> </td> <td width="65%" valign="middle">
 🎸 I occasionally play the guitar
