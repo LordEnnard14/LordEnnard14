@@ -1,21 +1,22 @@
-<!-- ============================== HEADER ============================== -->
+<!-- ============================== HEADER ============================== --> 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:3B1D6E,100:9146FF&text=Lord%20Ennard&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Andr%C3%A9s%20Churampi%20%7C%20Systems%20Engineering%20%C2%B7%20Cybersecurity%20%C2%B7%20ML&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/> <a href="https://github.com/LordEnnard14"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9146FF&center=true&vCenter=true&width=700&lines=Oh+Hello+Da!+%F0%9F%91%8B;Blue+team+mindset+%7C+Threat+Hunting+%26+SIEM;ML+%2B+Explainable+AI+researcher;I+break+things+in+the+lab+so+they+don't+break+in+prod" alt="Typing SVG"/> </a> <br/>
+
 
 </div>
 <!-- ============================== ABOUT ============================== -->
 🧑‍💻 About Me
 
-Systems Engineering graduate from Universidad de Lima, ranked 15th out of 71 in my class. My training focused on IT infrastructure, networking and data analysis, backed by hands-on experience in technical support, network configuration and user support.
+🎓 Systems Engineering graduate from Universidad de Lima · Upper Tenth (Décimo Superior)
 
-I'm passionate about cybersecurity and I like learning by building: labs, detections, simulations and automations that make the theory visible. I also work on IT process automation, data analysis and developing technology solutions that help teams run better.
+I learn by building: labs, detections and automations that turn theory into something visible.
 
-🔐 Cybersecurity: CCNA-level networking, security fundamentals, threat hunting, SIEM (Wazuh + Elastic), Sigma rules, MITRE ATT&CK
-🏢 IT infrastructure: Active Directory, Windows Server (2012, 2016 Datacenter), Linux (Ubuntu Server), Microsoft 365 and Google Workspace
-🤖 Automation & AI: Google Apps Script, Gemini integration, CI/CD with GitHub Actions, ML pipelines
-📊 Data: advanced Excel, SQL, Python and Power BI for analysis and visualization
-🌎 Languages: Spanish (native), English (advanced)
+🔐 Security: CCNA networking, threat hunting, SIEM (Wazuh + Elastic), MITRE ATT&CK
+🏢 Infrastructure: Active Directory, Windows Server, Ubuntu Server, M365 & Google Workspace
+🤖 Automation & AI: Apps Script, Gemini, GitHub Actions CI/CD, ML
+📊 Data: Python, SQL, Power BI, advanced Excel
+🌎 Languages: Spanish (native) · English (advanced)
 
-I'm detail-oriented, proactive and good at explaining technical results clearly. I want to contribute to organizations where technology and data drive continuous improvement.
+Detail-oriented, proactive, and clear when communicating technical results.
 
 <!-- TODO: add one line about what you're learning right now (e.g. "Currently learning: ...") --> <div align="center"> <i>"The worst enemy you can meet will always be yourself"</i> </div>
 <!-- ============================== EXPERIENCE ============================== -->
@@ -31,11 +32,10 @@ I'm detail-oriented, proactive and good at explaining technical results clearly.
 🔔 Automated workflows to notify and follow up on requests assigned to project leads
 🤝 Worked directly with external help desk providers and networking and telecom specialists to resolve complex incidents and roll out solutions
 
-
 🎓 Education
 
 B.Sc. in Systems Engineering | Universidad de Lima
-Ranked 15th out of 71 students in my class. Focus: IT infrastructure, networking and data analysis.
+🏅 Upper Tenth (Décimo Superior). Focus: IT infrastructure, networking and data analysis.
 
 <!-- ============================== FEATURED PROJECTS ============================== -->
 🚀 Featured Projects
@@ -48,7 +48,6 @@ Detection of living-off-the-land techniques (T1059.001, T1218) on a Windows 10 V
 🧠 ML Anomaly Detection on Sysmon/Wazuh logs
 
 Phase 2 of the LOLBins work: Isolation Forest to flag anomalous process behavior on top of SIEM telemetry.
-
 </td> </tr> <tr> <td width="50%" valign="top">
 🍯 Cowrie SSH Honeypot
 
